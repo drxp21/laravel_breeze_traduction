@@ -48,7 +48,7 @@
                                 <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Le starter kit Laravel Breeze traduit en français</h2>
 
                                 <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                    Par @drxp
+                                    Par <a href="https://github.com/drxp21">drxp21</a>
                                 </p>
                             </div>
                         </div>
